@@ -1,0 +1,39 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{25DC6855-2FF7-45E0-8D31-6D02E4F3DDD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Portafolio/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Portafolio/Servicios/RepositorioProyectos.cs" />
+      <File FileName="Portafolio/Program.cs" />
+      <File FileName="Portafolio/Controllers/HomeController.cs" Line="43" Column="39" />
+      <File FileName="Portafolio/Views/Home/Proyectos.cshtml" />
+      <File FileName="Portafolio/Views/Home/Contacto.cshtml" />
+      <File FileName="Portafolio/Models/ContactoViewModel.cs" />
+      <File FileName="Portafolio/Views/Home/Gracias.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Portafolio" expanded="True">
+            <Node name="Portafolio" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Servicios" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Portafolio PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/c4rtex/Documents/DesarrolloWeb/Portafolio/Portafolio/Controllers/HomeController.cs" relfile="Portafolio/Controllers/HomeController.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

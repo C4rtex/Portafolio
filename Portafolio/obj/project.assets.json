@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Carlos\\.nuget\\packages\\": {}
+    "/Users/c4rtex/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+      "projectUniqueName": "/Users/c4rtex/Documents/DesarrolloWeb/Portafolio/Portafolio/Portafolio.csproj",
       "projectName": "Portafolio",
-      "projectPath": "C:\\Users\\Carlos\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
-      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos\\source\\repos\\Portafolio\\Portafolio\\obj\\",
+      "projectPath": "/Users/c4rtex/Documents/DesarrolloWeb/Portafolio/Portafolio/Portafolio.csproj",
+      "packagesPath": "/Users/c4rtex/.nuget/packages/",
+      "outputPath": "/Users/c4rtex/Documents/DesarrolloWeb/Portafolio/Portafolio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/c4rtex/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
